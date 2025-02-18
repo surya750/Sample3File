@@ -1,2 +1,0 @@
-hellow guys
-getting  started with javascript
